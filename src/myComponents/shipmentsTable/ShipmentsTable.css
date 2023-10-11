@@ -1,0 +1,13 @@
+.shipments-header {
+  color: beige;
+  padding-left: 1.5rem;
+}
+
+.loading-header {
+  color: beige;
+  text-align: center;
+}
+
+.delete-button {
+  margin-left: 0.5rem !important;
+}
